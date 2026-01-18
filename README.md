@@ -7,11 +7,14 @@ Cybersecurity Enthusiast | VAPT • SOC • Cloud Security | Developer • Autom
   <a href="https://portfolio-nine-snowy-rn715ih1i3.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/ayushsingh-byte" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ayushsingh--byte-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ayush55/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:secondayush3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-secondayush3%40gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -25,16 +28,14 @@ Cybersecurity Enthusiast | VAPT • SOC • Cloud Security | Developer • Autom
 
 ## 🚀 About Me
 
-I’m **Ayush Singh**, a cybersecurity-focused developer who loves working on **real-world security problems** and building **automation-driven systems**.
+I’m **Ayush Singh**, a cybersecurity-focused developer passionate about building secure systems and solving real-world problems through **security + automation + scalable engineering**.
 
-I’m currently exploring:  
+I’m actively improving in:
 - 🔍 **Vulnerability Assessment & Penetration Testing (VAPT)**
-- 🛡️ **SOC & Incident Response Fundamentals**
+- 🛡️ **SOC fundamentals + incident response mindset**
 - ☁️ **AWS Cloud Security (VPC, IAM, Security Groups, EC2)**
-- ⚙️ **Automation Tools + Secure Backend Systems**
-- 🧠 Strong interest in **Threat Intelligence & Defensive Security**
-
-I enjoy building projects that combine **security + development** to create tools that are **useful, scalable, and production-ready**.
+- ⚙️ **Automation tools & backend systems**
+- 🧠 Strong interest in **threat intelligence & defensive security**
 
 ---
 
@@ -43,13 +44,13 @@ I enjoy building projects that combine **security + development** to create tool
 ✅ Security & Testing  
 - Vulnerability scanning & assessment  
 - Web security basics (OWASP Top 10)  
-- Security reporting with remediation steps  
+- Writing clean security reports with remediation steps  
 - Recon (Passive + Active), OSINT fundamentals  
 
 ✅ Development  
-- Build backend APIs and automation scripts  
-- Create full-stack systems with clean UI and strong logic  
-- Work with databases and scalable architecture  
+- Backend APIs and automation scripts  
+- Full-stack systems with clean UI + strong logic  
+- Working with databases and scalable architecture  
 
 ✅ Cloud  
 - AWS fundamentals + cloud networking  
@@ -83,7 +84,7 @@ I enjoy building projects that combine **security + development** to create tool
   <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=4DB33D"/>
 </p>
 
-### 📱 Extra (Optional)
+### 📱 Extra
 <p>
   <img src="https://img.shields.io/badge/Android-0F172A?style=for-the-badge&logo=android&logoColor=3DDC84"/>
   <img src="https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
@@ -91,72 +92,34 @@ I enjoy building projects that combine **security + development** to create tool
 
 ---
 
-## 🏆 Certifications
-
-✅ **Certified Cyber Security Analyst** — Quick Heal  
-📅 Issued: **10/10/2024**
-
----
-
-## 📌 Featured Projects
-
-### ⚡ Autonomous FinOps System (Hackathon Project)
-**AI-powered cloud cost optimization system** focused on:  
-- Cost visibility & insights  
-- Safe automation suggestions  
-- Transparent ROI reporting  
-- Cloud usage prediction direction  
-
-🔗 Repo: https://github.com/YOUR_GITHUB_USERNAME/autonomous-finops  
-
----
-
-### 🎮 FiveM Custom Server Scripts (JavaScript)
-Custom-built scripts including:  
-- Admin System (ban/mute/spectate/IP checks)  
-- Team management + game modes  
-- Capture points + kill streak mechanics  
-
----
-
-### 🧠 VAPT & Security Notes (Documentation)
-Structured notes covering:  
-- Planning & Reconnaissance  
-- Passive info gathering (OSINT)  
-- Vulnerability discovery  
-- Reporting formats + best practices  
-- Memory corruption basics & mitigations  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushsingh-byte&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsingh-byte&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh-byte&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 📈 Current Goals (2026)
+## 🎯 Current Focus (2026)
 
-- 🎯 Become job-ready for **SOC Analyst / VAPT Internship**
-- ☁️ Strengthen AWS security + cloud networking
-- 🧪 Build more security automation tools
-- 📚 Improve reporting, documentation, and real-world practice
-- 🚀 Publish strong projects with clean GitHub profiles
+- 🛡️ Strengthening SOC + detection fundamentals  
+- 🔍 Practicing VAPT methodology & reporting  
+- ☁️ Learning AWS security and cloud networking deeply  
+- ⚙️ Building automation tools to improve security workflows  
+- 📚 Staying consistent with daily learning and improvement  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let’s Connect
 
 🌐 Portfolio: https://portfolio-nine-snowy-rn715ih1i3.vercel.app/  
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-📧 Email: yourmail@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/ayush55/  
+📧 Email: secondayush3@gmail.com  
 
 ---
 

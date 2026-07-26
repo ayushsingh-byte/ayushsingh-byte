@@ -1,120 +1,102 @@
-# <div align="center">🛡️ Ayush Singh</div>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00ff99&height=220&section=header&text=Ayush%20Singh&fontSize=54&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20•%20SOC%20•%20Cloud%20Security%20•%20Developer&descSize=18&descAlignY=60"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF99&center=true&vCenter=true&width=700&lines=SOC+Analyst+%7C+Cybersecurity+Enthusiast;VAPT+%7C+Cloud+Security+%7C+Automation;Building+Secure+Systems;Always+Learning+Something+New"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00ff99&height=220&section=header&text=Ayush%20Singh&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20•%20SOC%20•%20Cloud%20Security%20•%20Developer&descAlignY=58"/>
 
-<p align="center">
+# 🛡️ Ayush Singh
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00aa66?style=for-the-badge)](https://portfolio-nine-snowy-rn715ih1i3.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Singh-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayush55)
-[![GitHub](https://img.shields.io/badge/GitHub-ayushsingh--byte-black?style=for-the-badge&logo=github)](https://github.com/ayushsingh-byte)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF99&center=true&vCenter=true&width=650&lines=SOC+Analyst+%7C+Cybersecurity+Enthusiast;VAPT+%7C+Cloud+Security;Backend+Developer;Always+Learning"/>
 
-</p>
+<a href="https://portfolio-nine-snowy-rn715ih1i3.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-00aa66?style=for-the-badge">
+</a>
+<a href="https://www.linkedin.com/in/ayush55/">
+<img src="https://img.shields.io/badge/LinkedIn-Ayush%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/ayushsingh-byte">
+<img src="https://img.shields.io/badge/GitHub-ayushsingh--byte-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ayushsingh-byte&style=flat-square&color=00ff99"/>
-</p>
+<br><br>
 
----
+<img src="https://komarev.com/ghpvc/?username=ayushsingh-byte&style=for-the-badge&color=00ff99" />
 
-# 👋 About Me
-
-Hi! I'm **Ayush Singh**, a cybersecurity student and developer passionate about building secure systems.
-
-## Interests
-
-- 🛡️ SOC Operations
-- 🔍 Vulnerability Assessment & Penetration Testing
-- ☁️ AWS Cloud Security
-- ⚙️ Backend Development
-- 🤖 Automation
-- 🧠 Threat Detection
-- 🐧 Linux
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 👋 About Me
 
-## 🛡️ SystemFlow
+- 🛡️ Cybersecurity student focused on SOC, VAPT and Cloud Security
+- ⚙️ Backend developer with Node.js & automation experience
+- ☁️ Learning AWS Security, Detection Engineering and Threat Hunting
+- 🚀 Building **SystemFlow**, an enterprise workflow platform
 
-Enterprise Workflow Platform featuring:
+---
 
+## 🚀 Featured Projects
+
+### 🛡️ SystemFlow
+Enterprise workflow automation platform with:
 - AI integrations
-- Browser caching
-- Service Worker
-- IndexedDB
-- Production Backend
-- Security Hardening
-- ML Service
-- Redis Support
-- Docker
-- Authentication
-- Visual Workflow Builder
+- Browser caching (Service Worker + IndexedDB)
+- Secure authentication
+- Docker deployment
+- ML service integration
+- Production-grade backend architecture
+
+### 🐍 Python Full Course
+A complete beginner-friendly Python repository with examples and exercises.
 
 ---
 
-## 🐍 Python Full Course
+## 🛠️ Tech Stack
 
-A beginner friendly Python learning repository with practical examples.
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express,react,mongodb,docker,linux,bash,git,github,aws,firebase,vscode,cpp,java&perline=8"/>
 
-# 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express,react,mongodb,docker,linux,bash,git,github,aws,firebase,vscode,cpp,java"/>
-</p>
+</div>
 
 ---
 
-# 🔐 Security Tools
+## 📊 GitHub Stats
 
-- Burp Suite
-- Nmap
-- Wireshark
-- Metasploit
-- OWASP
-- Kali Linux
-- OSINT
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushsingh-byte&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-# 📊 GitHub Statistics
+<img height="170" src="https://streak-stats.demolab.com?user=ayushsingh-byte&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
+<br><br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayushsingh-byte&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh-byte&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://streak-stats.demolab.com?user=ayushsingh-byte&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh-byte&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayushsingh-byte&theme=tokyonight&no-frame=true&no-bg=true"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=ayushsingh-byte&theme=tokyonight&no-frame=true&no-bg=true&row=1"/>
 
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsingh-byte&theme=tokyo-night&hide_border=true"/>
+</div>
 
 ---
 
-# 📋 Certifications
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsingh-byte&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 📚 Certifications
 
 - AWS Certified Cloud Practitioner
 - Certified Cyber Security Analyst
@@ -122,38 +104,29 @@ A beginner friendly Python learning repository with practical examples.
 
 ---
 
-# 🎯 Current Goals
+## 🎯 Current Focus
 
-- Strengthen SOC skills
-- Learn Detection Engineering
-- Improve Cloud Security
-- Build Security Automation
-- Contribute to Open Source
-
----
-
-# 🌱 Currently Learning
-
-- Python
-- Bash
-- PowerShell
-- Splunk
-- SQL
-- KQL
-- AWS Security
+- SOC & Incident Response
+- Detection Engineering
+- AWS Cloud Security
+- Python Automation
+- Threat Hunting
+- Security Research
 
 ---
 
-# 📫 Connect
+## 📫 Connect
 
-- Portfolio: https://portfolio-nine-snowy-rn715ih1i3.vercel.app/
-- LinkedIn: https://linkedin.com/in/ayush55
-- GitHub: https://github.com/ayushsingh-byte
+- 🌐 Portfolio: https://portfolio-nine-snowy-rn715ih1i3.vercel.app/
+- 💼 LinkedIn: https://linkedin.com/in/ayush55
+- 💻 GitHub: https://github.com/ayushsingh-byte
 
 ---
 
-> "Hack the problem. Secure the solution."
+<div align="center">
 
-<p align="center">
+> **Hack the problem. Secure the solution.**
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:0a3d2e,100:0d1117&height=120&section=footer"/>
-</p>
+
+</div>

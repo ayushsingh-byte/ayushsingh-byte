@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = r'''# <div align="center">🛡️ Ayush Singh</div>
+# <div align="center">🛡️ Ayush Singh</div>
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00ff99&height=220&section=header&text=Ayush%20Singh&fontSize=54&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20•%20SOC%20•%20Cloud%20Security%20•%20Developer&descSize=18&descAlignY=60"/>
@@ -159,7 +157,3 @@ A beginner friendly Python learning repository with practical examples.
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:0a3d2e,100:0d1117&height=120&section=footer"/>
 </p>
-'''
-path=Path('/mnt/data/README.md')
-path.write_text(content,encoding='utf-8')
-print(path)

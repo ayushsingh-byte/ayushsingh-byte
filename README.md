@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00ff99&height=220&section=header&text=Ayush%20Singh&fontSize=54&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00ff99&height=220&section=header&text=Ayush%20Kumar%20Singh&fontSize=54&fontColor=ffffff&animation=fadeIn"/>
 
-# 🛡️ Ayush Singh
+# 🛡️ Ayush Kumar Singh
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF99&center=true&vCenter=true&width=650&lines=SOC+Analyst+%7C+Cybersecurity+Enthusiast;VAPT+%7C+Cloud+Security+%7C+Threat+Hunting;Backend+Developer+%7C+Automation+Builder" alt="Typing intro"/>
 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit-00aa66?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/ayush55/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/ayushsingh-byte" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-ayushsingh--byte-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>

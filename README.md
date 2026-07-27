@@ -105,12 +105,10 @@ motto:       "Hack the problem. Secure the solution."
 
 <div align="center">
 
-<a href="https://github.com/ayushsingh-byte?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh-byte&repo=SystemFlow&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&border_color=0a3d2e" alt="SystemFlow"/>
-</a>
-<a href="https://github.com/ayushsingh-byte?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh-byte&repo=Python-Full-Course&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&border_color=0a3d2e" alt="Python Full Course"/>
-</a>
+| Project | Description | Stack |
+|:--|:--|:--|
+| **[🛡️ SystemFlow](https://github.com/ayushsingh-byte)** | Enterprise workflow automation platform | `Node.js` `React` `Docker` `ML` |
+| **[🐍 Python Full Course](https://github.com/ayushsingh-byte)** | Beginner-friendly Python learning repo | `Python` |
 
 </div>
 
@@ -134,12 +132,21 @@ A complete beginner-friendly Python repository — concepts, worked examples, an
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushsingh-byte&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9" alt="GitHub Stats"/>
-<img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsingh-byte&hide_border=true&background=0d1117&stroke=0a3d2e&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff" alt="GitHub Streak"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsingh-byte&theme=github_dark" alt="Profile Summary"/>
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh-byte&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushsingh-byte&theme=github_dark" alt="Top Languages by Repo"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushsingh-byte&theme=github_dark" alt="Top Languages by Commit"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushsingh-byte&theme=github_dark" alt="Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushsingh-byte&theme=github_dark&utcOffset=5" alt="Productive Time"/>
+
+<br/>
+
+<img width="60%" src="https://streak-stats.demolab.com/?user=ayushsingh-byte&hide_border=true&background=0d1117&stroke=0a3d2e&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff" alt="GitHub Streak"/>
 
 <br/><br/>
 

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/ayushsingh-byte/Beatvice/commit/ac39102ef4c45be3188abe6e43272616513af5c0\"><strong>a</strong>c39102ef4c45be3188abe6e43272616513af5c0</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/ayushsingh-byte/ShadowTrust-Security/commit/abd67486ca65051d6f6de6875878e2d38161ecc6\"><strong>ab</strong>d67486ca65051d6f6de6875878e2d38161ecc6</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/ed851fd0136799027671d1f2face5a353d64454c\">ed851fd</a>\n- <a href=\"https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/000a114c90ac95201d972a9e2968ae9804fe5c5e\">000a114</a>\n- <a href=\"https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/0a4286e915560e2964f8a2662d0fe94b8880452f\">0a4286e</a>\n- <a href=\"https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/f214d07206cc73a0917d84cc1ea3f9917d6b998e\">f214d07</a>\n- <a href=\"https://github.com/ayushsingh-byte/Weblith/commit/bdcffbbc6555602c48694a7e90fad9dee920064e\">bdcffbb</a>\n- <a href=\"https://github.com/ayushsingh-byte/Weblith/commit/e4bc349223265120374144b3b2af8287f0a9bf70\">e4bc349</a>\n- <a href=\"https://github.com/ayushsingh-byte/Weblith/commit/612447f7e03e1b9a244e909a542dfc600be6d2f3\">612447f</a>\n- <a href=\"https://github.com/ayushsingh-byte/ShadowTrust-Security/commit/8c0c55177f729524e7e5ada0981cf7529fef935a\">8c0c551</a>\n- <a href=\"https://github.com/ayushsingh-byte/ShadowTrust-Security/commit/62efe817795fe2c06aa0d06d62bed800414f7911\">62efe81</a>\n- <a href=\"https://github.com/ayushsingh-byte/ShadowTrust-Security/commit/402ea0f8a5eff336c0e6c76f2a3fb9331d4b93df\">402ea0f</a>\n- <a href=\"https://github.com/ayushsingh-byte/ShadowTrust-Security/commit/abd67486ca65051d6f6de6875878e2d38161ecc6\">abd6748</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"real\".",
+    "body": "My favorite commit message words are:\n\n1. real (used 37 times)\n2. new (used 32 times)\n3. add (used 31 times)\n4. readme (used 29 times)\n5. update (used 27 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/9e8f844067f62ba89e95266e639ac06da9ee2fc6\">9e8f844</a>: Fix CORS (add port 5174), cookie sameSite, match luxury dark theme colors\n- <a href=\"https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/f9a3f909e18e41abec3c539767a70d6d309b45e4\">f9a3f90</a>: Fix trip pages: inline dark styles + TripNotes uses real API (notes persist on refresh)\n- <a href=\"https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/aae945d24069bc8d74b1201db3c7c38acd889f47\">aae945d</a>: Fix trip pages visual: card wrappers, dark surfaces, proper tab buttons, styled empty states\n- <a href=\"https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/c757b620fa17c234092222686ac99d86747edd21\">c757b62</a>: Fix dark trip pages: replace near-invisible rgba opacity with solid #1c1c2e surfaces",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/67f328911a353dbec810078aa6d9118baf8a0e95\">67f3289</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/67f328911a353dbec810078aa6d9118baf8a0e95\">67f3289</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/ayushsingh-byte/Python-Full-Course\">ayushsingh-byte/Python-Full-Course</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/af0651c4190ea671c5faac1db4da3ba63d68b6c1\">af0651c</a>\n- <a href=\"https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/a28228d0e4aec164c96c6fbd8095d1a1f6e0bcf8\">a28228d</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ayushsingh-byte/ShadowTrust-Security/commit/8c0c55177f729524e7e5ada0981cf7529fef935a\">8c0c551</a>\n- <a href=\"https://github.com/ayushsingh-byte/ShadowTrust-Security/commit/abd67486ca65051d6f6de6875878e2d38161ecc6\">abd6748</a>\n- <a href=\"https://github.com/ayushsingh-byte/ayushsingh-byte/commit/c1afb9a895b50c2c54d17544b9fa8d452a1ca5a4\">c1afb9a</a>\n- <a href=\"https://github.com/ayushsingh-byte/ayushsingh-byte/commit/3ff7935eb26ade46099dc90991b45fc829692d56\">3ff7935</a>\n- <a href=\"https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/ef0c63348f6d31215ec316a6fa2fb93242fb3b11\">ef0c633</a>\n- <a href=\"https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/ac4b7505aac74d0b91641ab1bac46e59b7915985\">ac4b750</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  }
+]

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00ff99&height=250&section=header&text=Ayush%20Kumar%20Singh&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOC%20Analyst%20%E2%80%A2%20VAPT%20%E2%80%A2%20Cloud%20Security&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00ff99&height=250&section=header&text=Ayush%20Kumar%20Singh&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOC%20Analyst%20%E2%80%A2%20Blue%20Team%20%E2%80%A2%20Incident%20Response&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&height=60&lines=SOC+Analyst+%7C+Blue+Team+Operator;VAPT+%7C+Cloud+Security+%7C+Threat+Hunting;Detection+Engineering+%7C+Incident+Response;Backend+Developer+%7C+Automation+Builder" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&height=60&lines=SOC+Analyst+%7C+Blue+Team+Operator;Threat+Hunting+%7C+Threat+Intelligence;Detection+Engineering+%7C+Incident+Response;MITRE+ATT%26CK+%7C+Cloud+Security" alt="Typing intro"/>
 
 <br/>
 
@@ -15,7 +15,7 @@
 <a href="https://github.com/ayushsingh-byte" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:secondayush3@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -33,20 +33,20 @@
 
 ```yaml
 name:        Ayush Kumar Singh
-role:        SOC Analyst | Cybersecurity Enthusiast
-location:    India
-domains:     [ SOC Operations, VAPT, Cloud Security, Detection Engineering ]
-currently:   Building SystemFlow - an enterprise workflow platform
+role:        SOC Analyst | Blue Team | Security Monitoring & Incident Response
+location:    Vadodara, India
+domains:     [ SOC Operations, Threat Hunting, Threat Intelligence, Detection Engineering ]
+currently:   B.Tech in Cyber Security @ Parul University (2023-2027)
 learning:    Azure Security, Microsoft Sentinel, Threat Hunting at scale
 motto:       "Hack the problem. Secure the solution."
 ```
 
-- 🛡️ Cybersecurity student focused on **SOC**, **VAPT**, and **Cloud Security**
-- 🔍 I write detections, hunt threats, and break things so they get fixed properly
-- ⚙️ Backend developer with **Node.js** and automation experience
-- ☁️ Deep-diving into **AWS + Azure Security**, **SIEM engineering**, and **incident response**
-- 🚀 Building **SystemFlow**, an enterprise workflow automation platform
-- 💬 Ask me about SIEM rules, log pipelines, recon methodology, or clean backend architecture
+- 🛡️ SOC / Blue Team analyst triaging alerts across **Splunk** and **Microsoft Sentinel**
+- 🔍 Correlate Windows, Linux, and cloud telemetry to validate threats and cut false positives
+- 🎯 Skilled in threat hunting, IOC enrichment, and **MITRE ATT&CK** mapping
+- 🏆 TryHackMe SAL1 certified — top 1% worldwide
+- 🐝 Builder of honeypot and threat-intelligence platforms
+- 💬 Ask me about SIEM rules, threat hunting, incident response, or SOC automation
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -63,7 +63,7 @@ motto:       "Hack the problem. Secure the solution."
 <img src="https://img.shields.io/badge/Threat%20Hunting-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff99"/>
 <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=for-the-badge&logo=mitre&logoColor=white"/>
 
-### 🐉 Offensive Security · VAPT
+### 🐉 Offensive & Assessment
 
 <img src="https://skillicons.dev/icons?i=kali,linux,bash&perline=3" alt="Kali, Linux, Bash"/>
 <br/>
@@ -71,6 +71,15 @@ motto:       "Hack the problem. Secure the solution."
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+### 🧬 Forensics & Malware Analysis
+
+<img src="https://img.shields.io/badge/Volatility-0d1117?style=for-the-badge&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Autopsy-0d1117?style=for-the-badge&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/FTK%20Imager-0d1117?style=for-the-badge&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white"/>
+<img src="https://img.shields.io/badge/IDA%20Free-2C3E50?style=for-the-badge"/>
 
 ### 🌐 Networking
 
@@ -79,14 +88,20 @@ motto:       "Hack the problem. Secure the solution."
 <img src="https://img.shields.io/badge/Firewalls-FF6C37?style=for-the-badge&logo=pfsense&logoColor=white"/>
 <img src="https://img.shields.io/badge/DNS%20%7C%20HTTP%20%7C%20TLS-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00ff99"/>
 
-### ☁️ Cloud
+### ☁️ Cloud, Infra & Automation
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,firebase&perline=4" alt="AWS, Azure, Docker, Firebase"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker&perline=3" alt="AWS, Azure, Docker"/>
+<br/>
+<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/IDS%2FIPS-0d1117?style=for-the-badge&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/VPN-0d1117?style=for-the-badge&logo=wireguard&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Linux%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 ### 💻 Languages & Development
 
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express,react,mongodb&perline=6" alt="Python, JavaScript, Node.js, Express, React, MongoDB"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask&perline=3" alt="Python, FastAPI, Flask"/>
 <br/>
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 
@@ -107,24 +122,18 @@ motto:       "Hack the problem. Secure the solution."
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| **[🛡️ SystemFlow](https://github.com/ayushsingh-byte)** | Enterprise workflow automation platform | `Node.js` `React` `Docker` `ML` |
-| **[🐍 Python Full Course](https://github.com/ayushsingh-byte)** | Beginner-friendly Python learning repo | `Python` |
+| **[🛡️ Shadow Trust](https://github.com/ayushsingh-byte/ShadowTrust-Security)** | SOC & threat intelligence platform | `FastAPI` `Python` |
+| **[🍯 SOC Honeynet](https://github.com/ayushsingh-byte/SOC-Honeynet)** | Attacker telemetry collection via honeypots | `Cowrie` `T-Pot` `Dionaea` |
 
 </div>
 
-### 🛡️ SystemFlow — Enterprise Workflow Automation
+### 🛡️ Shadow Trust — SOC & Threat Intelligence Platform
 
-| Layer | What's inside |
-|:--|:--|
-| 🤖 **AI** | Integrated AI services + ML microservice |
-| ⚡ **Performance** | Browser caching via Service Worker + IndexedDB |
-| 🔐 **Security** | Hardened authentication & session handling |
-| 🐳 **Deployment** | Fully Dockerized, production-grade backend |
-| 🏗️ **Architecture** | Modular, scalable, API-first design |
+FastAPI platform in Python unifying honeypot telemetry, malware analysis, and threat intelligence into a single triage workflow. Automates IOC enrichment through VirusTotal and MalwareBazaar and maps observed activity to MITRE ATT&CK, accelerating correlation and cutting manual lookup effort during triage.
 
-### 🐍 Python Full Course
+### 🍯 SOC Honeynet — Attacker Telemetry Collection
 
-A complete beginner-friendly Python repository — concepts, worked examples, and hands-on exercises, from syntax basics through automation scripting.
+Deployed Cowrie, T-Pot, and Dionaea honeypots across multiple protocols to capture live attacker behaviour — credential attempts, probing, and exploitation patterns. Aggregated data surfaces recurring attack patterns and IOCs for detection and threat-intelligence use.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -171,11 +180,20 @@ A complete beginner-friendly Python repository — concepts, worked examples, an
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Certified-Cyber%20Security%20Analyst-00ff99?style=for-the-badge&labelColor=0d1117&logo=hackthebox&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/CCEP-Cybersecurity%20Educator%20Professional-0A66C2?style=for-the-badge&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-SAL1%20%7C%20SOC%20L1%2FL2-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security%20Blue%20Team-BTJA-00ff99?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Red%20Team%20Leaders-CCEP-0A66C2?style=for-the-badge&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-CLF--C02%20%7C%20AIF--C01%20%7C%20SAA--C03%20%7C%20DVA--C02-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Quick%20Heal-6%20Certifications-E4002B?style=for-the-badge"/>
 
 </div>
+
+📄 Published research in **IRJMETS** (Intl. Research Journal of Modernization in Engineering, Technology & Science), 2026 — Paper ID: `IRJMETS80400235394`
+
+## 💼 Experience
+
+**SOC Level 1 Intern** @ Redynox (Remote) · Jan – Feb 2026
+Triaged ~20 alerts/day across Splunk & Sentinel, correlated host/network logs to cut false positives, and mapped confirmed findings to MITRE ATT&CK for downstream analysts.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -189,15 +207,17 @@ mindmap
       Incident Response
       Detection Engineering
       Threat Hunting
+      Threat Intelligence
     Cloud Security
       AWS Security
       Azure & Sentinel
-    Offensive
-      VAPT
-      Security Research
+    Offensive & Forensics
+      Vulnerability Assessment
+      Malware Triage
+      Reverse Engineering
     Engineering
       Python Automation
-      Backend Architecture
+      Security Tooling
 ```
 
 <div align="center">
@@ -207,8 +227,8 @@ mindmap
 | SOC & Incident Response | ![](https://geps.dev/progress/80?dangerColor=0a3d2e&warningColor=0a3d2e&successColor=00ff99) |
 | Detection Engineering | ![](https://geps.dev/progress/70?dangerColor=0a3d2e&warningColor=0a3d2e&successColor=00ff99) |
 | Cloud Security (AWS + Azure) | ![](https://geps.dev/progress/65?dangerColor=0a3d2e&warningColor=0a3d2e&successColor=00ff99) |
-| Threat Hunting | ![](https://geps.dev/progress/60?dangerColor=0a3d2e&warningColor=0a3d2e&successColor=00ff99) |
-| Python Automation | ![](https://geps.dev/progress/85?dangerColor=0a3d2e&warningColor=0a3d2e&successColor=00ff99) |
+| Threat Hunting & Intelligence | ![](https://geps.dev/progress/60?dangerColor=0a3d2e&warningColor=0a3d2e&successColor=00ff99) |
+| Digital Forensics | ![](https://geps.dev/progress/55?dangerColor=0a3d2e&warningColor=0a3d2e&successColor=00ff99) |
 
 </div>
 

@@ -222,6 +222,17 @@ mindmap
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
+## 🏅 Achievements
+
+<div align="center">
+
+<!-- my-badges start -->
+<!-- my-badges end -->
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 ## 📫 Connect With Me
 
 <div align="center">

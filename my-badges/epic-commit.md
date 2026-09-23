@@ -4,6 +4,8 @@
 
 Commits:
 
+- <a href="https://github.com/ayushsingh-byte/PracLabs-Academy/commit/2d72bf951d97def63f29101b327b7b6ee2234ada">2d72bf9</a>
+- <a href="https://github.com/ayushsingh-byte/PracLabs-Academy/commit/2102e2d5f0be91ddc0b1b3684f146b12cb5c9edc">2102e2d</a>
 - <a href="https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/ed851fd0136799027671d1f2face5a353d64454c">ed851fd</a>
 - <a href="https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/000a114c90ac95201d972a9e2968ae9804fe5c5e">000a114</a>
 - <a href="https://github.com/ayushsingh-byte/Odoo-HackathanTraveloop/commit/0a4286e915560e2964f8a2662d0fe94b8880452f">0a4286e</a>
